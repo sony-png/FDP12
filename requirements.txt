@@ -1,0 +1,5 @@
+langchain_groq 
+langchain
+streamlit
+fastembed
+PyPDF2
