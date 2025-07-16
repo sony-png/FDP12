@@ -3,3 +3,4 @@ langchain
 streamlit
 fastembed
 PyPDF2
+faiss-cpu
